@@ -1,0 +1,13 @@
+.tarjetas {
+    height: 400px;
+    width: 400px;
+    border: 1 px;
+    background-color: white;
+    color: black;
+}
+
+.imagenes {
+    width: 200px;
+    height: 200px;
+}
+
