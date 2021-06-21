@@ -1,2 +1,2 @@
-# mi-tienda
+# mi_tienda
 Feria
